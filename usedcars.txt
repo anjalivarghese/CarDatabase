@@ -1,0 +1,7 @@
+1YX98J,2014,Black,White,,Toyota,RAV4,25000
+ABC132,2007,yellow,black,,Toyota,Corolla,5900
+38000,2012,Blue,Light Green,,Honda,Civic,9200
+pap123,2011,blue,,,toyota,camry,34000
+anjali,2011,blue,,,audi,ever,45000
+dfsd,2013,blue,,,adaca,tyo,34555
+ty67,2012,red,,,blue,black,56000
